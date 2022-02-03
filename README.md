@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**jfcalao/jfcalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juan Felipe, I am a software developer based in Colombia, passionate about web programming and frontend development, being my main tech stack: JavaScript, CSS, HTML and ReactJS. Enthusiastic about learning, sharing my knowledge, working as a team and always trying to contribute and develop the best solutions.
+### 🔭 Current Work
+- 💻 I’m currently working as a Web Software Developer at [Ideaware](https://ideaware.co)
 
-Here are some ideas to get you started:
+### 📚 Learning
+- I’m currently learning about web3.
+- Testing using Jest.
+- More about react.
+- More javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎹 About me
+- I like sports and physical activity.
+- I love music. I play piano and guitar.
+- I'm always trying to learn new things.
+
+### 📫 How to reach me: 
+  - LinkedIn: [Juan Felipe Calao Pérez](https://www.linkedin.com/in/juan-felipe-calao-p%C3%A9rez-3077811aa/)
+  - Email: [jfcalaop13@gmail.com](mailto:jfcalaop13@gmail.com)
