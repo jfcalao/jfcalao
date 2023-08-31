@@ -6,7 +6,7 @@ I'm Juan Felipe, I am a software developer based in Colombia, passionate about w
 
 ### 📚 Learning
 - I’m currently learning about web3.
-- Testing using Jest.
+- Testing.
 - More about react.
 - More javascript.
 
