@@ -2,13 +2,7 @@
 
 I'm Juan Felipe, I am a software developer based in Colombia, passionate about web programming and frontend development, being my main tech stack: JavaScript, CSS, HTML and ReactJS. Enthusiastic about learning, sharing my knowledge, working as a team and always trying to contribute and develop the best solutions.
 ### 🔭 Current Work
-- 💻 I’m currently working as a Web Software Developer at [Ideaware](https://ideaware.co)
-
-### 📚 Learning
-- I’m currently learning about web3.
-- Testing.
-- More about react.
-- More javascript.
+- 💻 I’m currently working as a Web Software Developer at [Deep Space Robots](https://deepspacerobots.com)
 
 ### 🎹 About me
 - I like sports and physical activity.
